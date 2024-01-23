@@ -15,3 +15,4 @@ if (result) {
 } else {
     console.log("The JSON objects are not equal.");
 }
+console.log(typeof compareJSON)
